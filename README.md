@@ -19,7 +19,7 @@ You never really know where an unshortened URL is going to send you.  Maybe you'
 
 All this script will do, is visit the link and return the final destiantion to you, right in your terminal.
 
-This was made mostly just to handle many http://x.co shortened links for assisting with dealing with abuse, but it works with many other shorteners too.  It does *not* work with all shortening services.
+This was made mostly just to handle many http://x.co shortened links for assisting with dealing with abuse at GoDaddy, but it works with many other shorteners too.  It does *not* work with all shortening services, especially those that make you wait a few seconds (or click a confirm button to continue).
 
 
 ### How do I use it?
